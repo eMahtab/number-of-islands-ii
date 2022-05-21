@@ -1,5 +1,6 @@
 # Number of Islands II
 ## https://leetcode.com/problems/number-of-islands-ii
+## https://www.lintcode.com/problem/434
 
 You are given an empty 2D binary grid grid of size m x n. The grid represents a map where 0's represent water and 1's represent land. Initially, all the cells of grid are water cells (i.e., all the cells are 0's).
 
